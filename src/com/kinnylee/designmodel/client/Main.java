@@ -1,7 +1,7 @@
 package com.kinnylee.designmodel.client;
 
-import com.kinnylee.designmodel.dm.SimpleFactory;
-import com.kinnylee.designmodel.intf.IFruit;
+import com.kinnylee.designmodel.factory.SimpleFactory;
+import com.kinnylee.designmodel.factory.intf.IFruit;
 
 /**
  * Created by lijl-c on 2016/8/5.

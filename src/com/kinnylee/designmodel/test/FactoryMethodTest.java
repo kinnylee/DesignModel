@@ -1,8 +1,8 @@
 package com.kinnylee.designmodel.test;
 
-import com.kinnylee.designmodel.dm.FactoryMethod;
-import com.kinnylee.designmodel.intf.IFruit;
-import com.kinnylee.designmodel.intf.ITest;
+import com.kinnylee.designmodel.factory.FactoryMethod;
+import com.kinnylee.designmodel.factory.intf.IFruit;
+import com.kinnylee.designmodel.factory.intf.ITest;
 import org.junit.Test;
 
 /**

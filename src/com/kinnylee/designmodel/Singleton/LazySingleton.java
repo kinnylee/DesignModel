@@ -1,4 +1,4 @@
-package com.kinnylee.designmodel.Singleton;
+package com.kinnylee.designmodel.singleton;
 
 /**
  * Created by lijl-c on 2016/8/13.

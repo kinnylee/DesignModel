@@ -12,7 +12,7 @@ import org.junit.Test;
 public class CommandTest {
 
     @Test
-    public void test(){
+    public void test() {
         Command command = new ConcreteCommand(new Receiver());
         Invoker invoker = new Invoker(command);
         invoker.action();

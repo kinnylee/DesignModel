@@ -6,7 +6,7 @@ package com.kinnylee.example.tcpconnection;
 public class TcpEstablished implements TcpState {
     @Override
     public void open() {
-        
+
     }
 
     @Override

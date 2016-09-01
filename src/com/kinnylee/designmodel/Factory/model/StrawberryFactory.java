@@ -1,7 +1,8 @@
 package com.kinnylee.designmodel.factory.model;
 
 import com.kinnylee.designmodel.factory.intf.IFactory;
-import com.kinnylee.designmodel.factory.intf.IFruit;
+import com.kinnylee.designmodel.simplefactory.IFruit;
+import com.kinnylee.designmodel.simplefactory.Strawberry;
 
 /**
  * Created by lijl-c on 2016/8/6.

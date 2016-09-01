@@ -1,6 +1,6 @@
 package com.kinnylee.designmodel.factory.model;
 
-import com.kinnylee.designmodel.factory.intf.IFruit;
+import com.kinnylee.designmodel.simplefactory.IFruit;
 
 /**
  * Created by 95 on 2016/8/8.

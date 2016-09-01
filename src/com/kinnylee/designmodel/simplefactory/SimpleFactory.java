@@ -1,10 +1,4 @@
-package com.kinnylee.designmodel.factory;
-
-import com.kinnylee.designmodel.factory.exception.BadFruitException;
-import com.kinnylee.designmodel.factory.intf.IFruit;
-import com.kinnylee.designmodel.factory.model.Apple;
-import com.kinnylee.designmodel.factory.model.Grape;
-import com.kinnylee.designmodel.factory.model.Strawberry;
+package com.kinnylee.designmodel.simplefactory;
 
 /**
  * Created by lijl-c on 2016/8/5.

@@ -1,7 +1,5 @@
 package com.kinnylee.designmodel.decorator;
 
-import com.kinnylee.designmodel.composite.*;
-
 /**
  * Created by lijl-c on 2016/8/17.
  */

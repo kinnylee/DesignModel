@@ -7,7 +7,7 @@ public class EagerSingleton {
 
     private static final EagerSingleton m_instance = new EagerSingleton();
 
-    EagerSingleton(){}
+    private EagerSingleton(){}
 
     EagerSingleton getInstance(){
         return m_instance;

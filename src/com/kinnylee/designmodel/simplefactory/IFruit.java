@@ -1,4 +1,4 @@
-package com.kinnylee.designmodel.factory.intf;
+package com.kinnylee.designmodel.simplefactory;
 
 /**
  * Created by lijl-c on 2016/8/5.

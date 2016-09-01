@@ -7,6 +7,10 @@ public class LazySingleton {
 
     private static LazySingleton m_instance = null;
 
+    private LazySingleton(){
+
+    }
+
     public static LazySingleton  getInstance(){
         if(null == m_instance){
             m_instance = new LazySingleton();
